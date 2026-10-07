@@ -6,11 +6,9 @@
   />
 </p>
 
-<h3 align="center">✨ Junior Backend Developer | Backend & API Enthusiast ✨</h3>
+<h3 align="center">✨ Junior Backend Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farhancoded&label=Profile%20Views&color=A78BFA&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
