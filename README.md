@@ -6,15 +6,17 @@
   />
 </p>
 
+<h1 align="center">Hi 👋, I'm Farhan Shahriar</h1>
+
 <h3 align="center">✨ Junior Backend Developer</h3>
-
-
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I am a Junior Backend Developer specializing in building secure, scalable backend APIs, database design, and structured microservices. I am passionate about optimizing complex database queries and engineering dependable server-side environments.
+I am a Junior Backend Developer passionate about building secure and scalable APIs,
+designing databases, and developing reliable backend systems.
+Currently, I am improving my skills in Python, FastAPI, PostgreSQL, and Next.js.
 
 ---
 
