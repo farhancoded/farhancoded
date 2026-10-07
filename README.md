@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Farhan%20Shahriar&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%" alt="Banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:C4B5FD,100:A7F3D0&height=220&section=header&text=Farhan%20Shahriar&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
+    width="100%"
+    alt="Farhan Shahriar Banner"
+  />
 </p>
 
-<h1 align="center">Hi 👋, I'm Farhan Shahriar</h1>
-
-<h3 align="center">Junior Backend Developer</h3>
+<h3 align="center">✨ Junior Backend Developer | Backend & API Enthusiast ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farhancoded&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=farhancoded&label=Profile%20Views&color=A78BFA&style=flat" alt="Profile Views" />
 </p>
 
 ---
