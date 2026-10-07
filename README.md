@@ -25,15 +25,10 @@ I am a Junior Backend Developer specializing in building secure, scalable backen
 
 ## 🛠️ Tech Stack & Skills
 <p align="left">
-  
-
   <img src="https://shields.io" alt="NextJS" />
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="FastAPI" />
-  
- 
   <img src="https://shields.io" alt="Postgres" />
-  
   <img src="https://shields.io" alt="JS" />
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="Postman" />
@@ -45,9 +40,6 @@ I am a Junior Backend Developer specializing in building secure, scalable backen
 <p align="left">
   <a href="https://www.linkedin.com/in/farhan-shahriar-39360a343" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/determined.person.1" target="_blank">
-    <img src="https://shields.io" alt="Facebook" />
   </a>
   <a href="https://github.com/farhancoded" target="_blank">
     <img src="https://shields.io" alt="GitHub" />
